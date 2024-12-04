@@ -4,7 +4,7 @@
 
 <h3>VPC</h3>
 Para crear la infraestructura, primero he creado una VPC asignándole un bloque CIDR 172.80.0.0/16.
-![image](https://github.com/user-attachments/assets/eabca569-0d92-4acd-b8d3-e35ac84962c1)
+
 
 
 <h3>Subredes</h3>
