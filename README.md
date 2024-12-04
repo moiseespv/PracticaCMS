@@ -20,6 +20,10 @@ Después, he creado dos subredes, una pública para el balanceador (172.80.0.0/2
 <h3>Tablas de enrutamiento</h3>
 A continuación, he añadido dos tablas de enrutamiento también una pública y otra privada asignándo cada una a su subred y dando salida a internet solo a la pública.
 
+![image](https://github.com/user-attachments/assets/2b46edd3-f31e-4318-9914-e9d75e80e1fe)
+
+![image](https://github.com/user-attachments/assets/f1a8a131-fc64-4c80-9ad5-b9f4c1876fe3)
+
 <h3>Grupos de seguridad</h3>
 En los grupos de seguridad, he configurado tres, 
 uno para el balanceador, con reglas para permitir tráfico entrante HTTP/HTTPS desde internet a los servidores web.
