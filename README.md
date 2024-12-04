@@ -4,7 +4,8 @@
 
 <h3>VPC</h3>
 Para crear la infraestructura, primero he creado una VPC asignándole un bloque CIDR 172.80.0.0/16.
-![image](https://github.com/user-attachments/assets/b8ce7b05-e034-4ada-a302-f7019dabe961)
+![image](https://github.com/user-attachments/assets/eabca569-0d92-4acd-b8d3-e35ac84962c1)
+
 
 <h3>Subredes</h3>
 Después, he creado dos subredes, una pública para el balanceador (172.80.0.0/20) y otra privada para los servidores web, el nfs y el de base de datos (172.80.0.128/20) donde he asignado las dos subredes a la vpc.
