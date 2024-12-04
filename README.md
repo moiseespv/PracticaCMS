@@ -12,6 +12,11 @@ Para crear la infraestructura, primero he creado una VPC asignándole un bloque 
 <h3>Subredes</h3>
 Después, he creado dos subredes, una pública para el balanceador (172.80.0.0/20) y otra privada para los servidores web, el nfs y el de base de datos (172.80.0.128/20) donde he asignado las dos subredes a la vpc.
 
+![image](https://github.com/user-attachments/assets/bc5f5be1-2121-46ce-8173-0729967196b7)
+
+![image](https://github.com/user-attachments/assets/61840dfb-04b6-4967-b50d-3bfcb8f8f5b4)
+
+
 <h3>Tablas de enrutamiento</h3>
 A continuación, he añadido dos tablas de enrutamiento también una pública y otra privada asignándo cada una a su subred y dando salida a internet solo a la pública.
 
