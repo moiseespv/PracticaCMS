@@ -1,6 +1,6 @@
 # PracticaCMS
 
-## ÍNDICE
+# ÍNDICE
 
 <h2>VPC</h2> 
 <h2>SUBREDES</h2> 
