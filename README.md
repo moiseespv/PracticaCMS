@@ -2,14 +2,12 @@
 
 ## ÍNDICE
 
-<h1>VPC</h1> 
-<h1>SUBREDES</h1> 
-<H1>TABLAS DE ENRUTAMIENTO</H1>
-<h1>GRUPOS DE SEGURIDAD</h1>
-<H1>DIRECCIÓN IP ELÁSTICA</H1>
-<h1>INSTANCIAS</h1> 
-
-<h2>Infraestructura</h2>
+<h2>VPC</h2> 
+<h2>SUBREDES</h2> 
+<H2>TABLAS DE ENRUTAMIENTO</H2>
+<h2>GRUPOS DE SEGURIDAD</h2>
+<H2>DIRECCIÓN IP ELÁSTICA</H2>
+<h2>INSTANCIAS</h2> 
 
 <h3>VPC</h3>
 Para crear la infraestructura, primero he creado una VPC asignándole un bloque CIDR 172.80.0.0/16.
