@@ -1,4 +1,4 @@
-### PracticaCMS
+# PracticaCMS
 
 ## ÍNDICE
 
