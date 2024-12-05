@@ -1,5 +1,14 @@
 # PracticaCMS
 
+## ÍNDICE
+
+# VPC
+# SUBREDES
+# TABLAS DE ENRUTAMIENTO
+# GRUPOS DE SEGURIDAD
+# DIRECCIÓN IP ELÁSTICA
+# INSTANCIAS
+
 <h2>Infraestructura</h2>
 
 <h3>VPC</h3>
